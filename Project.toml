@@ -1,5 +1,4 @@
 [deps]
-AD4SM = "7861f83d-ce22-4070-aa20-44578e274a9b"
 AbstractPlotting = "537997a7-5e4e-5d89-9595-2241ea00577e"
 BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
 CUDAdrv = "c5f51814-7f29-56b8-a69c-e4d8f6be1fde"
