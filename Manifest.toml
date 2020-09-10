@@ -518,14 +518,6 @@ git-tree-sha1 = "3b04f1dd73f0efa81298a76c9515f306df06f613"
 uuid = "0656b61e-2033-5cc2-a64a-77c0f6c09b89"
 version = "3.3.2+0"
 
-[[GLMakie]]
-deps = ["AbstractPlotting", "ColorTypes", "Colors", "FileIO", "FixedPointNumbers", "FreeTypeAbstraction", "GLFW", "GeometryBasics", "LinearAlgebra", "Markdown", "MeshIO", "ModernGL", "Observables", "Printf", "Serialization", "ShaderAbstractions", "StaticArrays"]
-git-tree-sha1 = "45b0c87c058b39ee4a80205ea19ef25e3d8fe83b"
-repo-rev = "master"
-repo-url = "https://github.com/JuliaPlots/GLMakie.jl.git"
-uuid = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
-version = "0.1.11"
-
 [[GPUArrays]]
 deps = ["AbstractFFTs", "Adapt", "LinearAlgebra", "Printf", "Random", "Serialization"]
 git-tree-sha1 = "d887693eb1bd5e1fd573262a978745481895ec7d"
@@ -853,7 +845,7 @@ uuid = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
 version = "0.5.5"
 
 [[Makie]]
-deps = ["AbstractPlotting", "FileIO", "GLMakie"]
+deps = ["AbstractPlotting", "FileIO"]
 git-tree-sha1 = "106da1c1201dd9a094bd6fcc0dbbb675e0ab8137"
 repo-rev = "master"
 repo-url = "https://github.com/JuliaPlots/Makie.jl.git"
