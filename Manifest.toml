@@ -910,12 +910,6 @@ version = "0.4.4"
 [[Mmap]]
 uuid = "a63ad114-7e13-5084-954f-fe012c677804"
 
-[[ModernGL]]
-deps = ["Libdl"]
-git-tree-sha1 = "326957556e9cc9253615114c04bb0096a2a69bb8"
-uuid = "66fc600b-dfda-50eb-8b99-91cfa97b1301"
-version = "1.1.2"
-
 [[MortarContact2D]]
 deps = ["FEMBase", "LinearAlgebra", "SparseArrays", "Statistics", "Test"]
 git-tree-sha1 = "dad84aeb9caadb97d2c9cf4d2e994c5d3c8a254a"
@@ -933,12 +927,6 @@ deps = ["MappedArrays", "OffsetArrays", "PaddedViews"]
 git-tree-sha1 = "29d121f9e7a6cf081278029121ed90e1f3b33de8"
 uuid = "e94cdb99-869f-56ef-bcf0-1ae2bcbe0389"
 version = "0.2.3"
-
-[[MsgPack]]
-deps = ["Serialization"]
-git-tree-sha1 = "a8cbf066b54d793b9a48c5daa5d586cf2b5bd43d"
-uuid = "99f44e22-a591-53d1-9472-aa23ef4bd671"
-version = "1.1.0"
 
 [[MuladdMacro]]
 git-tree-sha1 = "c6190f9a7fc5d9d5915ab29f2134421b12d24a68"
