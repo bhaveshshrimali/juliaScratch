@@ -844,13 +844,6 @@ git-tree-sha1 = "f7d2e3f654af75f01ec49be82c231c382214223a"
 uuid = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
 version = "0.5.5"
 
-[[Makie]]
-deps = ["AbstractPlotting", "FileIO"]
-git-tree-sha1 = "106da1c1201dd9a094bd6fcc0dbbb675e0ab8137"
-repo-rev = "master"
-repo-url = "https://github.com/JuliaPlots/Makie.jl.git"
-uuid = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
-version = "0.11.1"
 
 [[MappedArrays]]
 git-tree-sha1 = "e2a02fe7ee86a10c707ff1756ab1650b40b140bb"
