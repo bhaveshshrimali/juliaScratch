@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+dependencies:
+  - gmsh
+  - pip
+  - numpy
+  - scipy
+  - matplotlib
+  - numba

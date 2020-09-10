@@ -1,0 +1,11 @@
+libgl1-mesa-glx libsm6
+texlive-latex-base
+texlive-latex-recommended
+texlive-science
+texlive-latex-extra
+texlive-fonts-recommended
+texlive-xetex
+texlive-generic-extra
+cm-super
+dvipng
+ghostscript
